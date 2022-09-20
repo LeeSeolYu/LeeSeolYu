@@ -47,6 +47,13 @@
     </a>
 </p>
 <br />
+:woman_technologist:
+<p>
+    <a href="https://github.com/LeeSeolYu/Algorithm" target="_blank">
+        <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/PS-badge-logo.png?raw=true" height=25 />
+    </a>
+</p>
+<br />
 🌸 My Portfolio Site
 <p>
     <a href="https://LeeSeolYu.github.io/" target="_blank">
