@@ -12,34 +12,34 @@
 <br />
 📝🎨
 <p align="left">
-    <a href="https://github.com/LeeSeolYu/TIL/tree/main/HTML_CSS" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/html-badge-logo.png?raw=true" height=25 />
     </a>
-    <a href="https://github.com/LeeSeolYu/TIL/tree/main/HTML_CSS" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/css-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
 <br />
 🎤
 <p align="left">
-    <a href="https://github.com/LeeSeolYu/TIL/tree/main/JavaScript" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/javascript-badge-logo.png?raw=true" height=25 />
     </a>
-    <a href="https://github.com/LeeSeolYu/TIL/tree/main/TypeScript" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/typescript-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
 <br />
 🛠🏗️
 <p>
-    <a href="https://github.com/LeeSeolYu/TIL/tree/main/React" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/react-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
 <br />
 🐙😻
 <p>
-    <a href="https://github.com/LeeSeolYu/TIL/tree/main/Git" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/git-badge-logo.png?raw=true" height=25 />
     </a>
     <a href="https://github.com/LeeSeolYu" target="_blank">
@@ -49,14 +49,14 @@
 <br />
 :woman_technologist:
 <p>
-    <a href="https://github.com/LeeSeolYu/Algorithm" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/PS-badge-logo.png?raw=true" height=25 />
     </a>
 </p>
 <br />
 🌸 My Portfolio Site
 <p>
-    <a href="https://LeeSeolYu.github.io/" target="_blank">
+    <a href="https://github.com/LeeSeolYu" target="_blank">
         <image src="https://github.com/LeeSeolYu/LeeSeolYu/blob/main/imgs/Portfolio1.png?raw=true" height=50 />
     </a>
     <a href="https://cobalt-yam-d8c.notion.site/Hello-I-m-Lee-Seolyu-ff934faf51a746bba58471b7c5b6fcf8" target="_blank">
